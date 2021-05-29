@@ -1,0 +1,14 @@
+File system
+
+	DOS , FAT16
+		Windows 95
+
+	Win95 , FAT32
+		Windows 98
+		Windows Me (,2000)
+
+	NTFS , exFAT
+		Windows XP
+		Windows 7
+		Windows 8
+		Windows 10
