@@ -1,6 +1,7 @@
 # oschecker
 This tool identify the Windows OS Version from a Windows Disk Image.
 <br>
+dependancy: [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit),[hivex](https://github.com/libguestfs/hivex)
 ## exmple
 ```
 # ./oschecker.sh win95.raw
