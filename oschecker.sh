@@ -18,9 +18,9 @@ if [ "$1" = "-h" ]; then
 	echo ""
 	echo 'Tools:'
 	echo "  The Sleuth Kit"
-	echo "       (https://www.sleuthkit.org/sleuthkit/)"
+	echo "       (https://github.com/sleuthkit/sleuthkit)"
 	echo ""
-	echo "  hivex "
+	echo "  hivex (https://github.com/libguestfs/hivex)"
 	echo "       ex) sudo apt install libhivex-bin"
 	echo ""
 	echo ""
